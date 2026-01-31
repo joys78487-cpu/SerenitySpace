@@ -1,16 +1,14 @@
 # SerenitySpace 🧘‍♀️
 
-A peaceful mental wellness web application built with Django, designed to help users cultivate mindfulness, gratitude, and inner calm through journaling and reflection.
+A peaceful mental wellness web application built with Django, designed to help users cultivate gratitude and inner calm through journaling and reflection.
 
 ## 🌟 Features
 
 ### Current Capabilities
 
 -   **Journaling System**: Write and store personal journal entries with timestamps
--   **Calm Prompts**: Access guided prompts for meditation and reflection
 -   **Gratitude Practice**: Record daily gratitude notes to foster positivity
--   **Audio Integration**: Built-in calming audio player with meditation sounds
--   **Breathing Exercises**: Interactive breathing guidance tools
+-   **Audio Integration**: Built-in calming audio player 
 -   **Clean, Minimal Interface**: Serene design focused on user tranquility
 
 ## 🚀 Getting Started
